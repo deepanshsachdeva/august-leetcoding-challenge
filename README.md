@@ -11,3 +11,4 @@
 
 ## Week 2
   1. Path Sum III - Problem [#437](https://leetcode.com/problems/path-sum-iii/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution8.java)
+  2. Rotting Oranges - Problem [#994](https://leetcode.com/problems/rotting-oranges/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution9.java)
