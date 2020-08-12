@@ -14,3 +14,4 @@
   2. Rotting Oranges - Problem [#994](https://leetcode.com/problems/rotting-oranges/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution9.java)
   3. Excel Sheet Column Number - Problem [#171](https://leetcode.com/problems/excel-sheet-column-number/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution10.java)
   4. H-Index - Problem [#274](https://leetcode.com/problems/h-index/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution11.java)
+  5. Pascal's Triangle II - Problem [#119](https://leetcode.com/problems/pascals-triangle-ii/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution12.java)
