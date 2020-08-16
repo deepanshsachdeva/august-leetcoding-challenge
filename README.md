@@ -17,3 +17,6 @@
   5. Pascal's Triangle II - Problem [#119](https://leetcode.com/problems/pascals-triangle-ii/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution12.java)
   6. Iterator for Combination - Problem [#1286](https://leetcode.com/problems/iterator-for-combination/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution13.java)
   7. Longest Palindrome - Problem [#409](https://leetcode.com/problems/longest-palindrome/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution14.java)
+
+## Week 3
+  1. Non-overlapping Intervals - Problem [#435](https://leetcode.com/problems/non-overlapping-intervals/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution15.java)
