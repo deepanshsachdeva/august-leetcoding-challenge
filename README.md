@@ -22,3 +22,4 @@
   1. Non-overlapping Intervals - Problem [#435](https://leetcode.com/problems/non-overlapping-intervals/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution15.java)
   2. Best Time to Buy and Sell Stock III - Problem [#123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution16.java)
   3. Distribute Candies to People - Problem [#1103](https://leetcode.com/problems/distribute-candies-to-people/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution17.java)
+  4. Numbers With Same Consecutive Differences - Problem [#967](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution18.java)
