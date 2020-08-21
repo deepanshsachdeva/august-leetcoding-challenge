@@ -24,3 +24,4 @@
   3. Distribute Candies to People - Problem [#1103](https://leetcode.com/problems/distribute-candies-to-people/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution17.java)
   4. Numbers With Same Consecutive Differences - Problem [#967](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution18.java)
   5. Goat Latin - Problem [#824](https://leetcode.com/problems/goat-latin/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution19.java)
+  6. Reorder List - Problem [#143](https://leetcode.com/problems/reorder-list/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution20.java)
