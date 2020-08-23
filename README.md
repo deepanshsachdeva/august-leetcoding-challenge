@@ -26,3 +26,6 @@
   5. Goat Latin - Problem [#824](https://leetcode.com/problems/goat-latin/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution19.java)
   6. Reorder List - Problem [#143](https://leetcode.com/problems/reorder-list/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution20.java)
   7. Sort Array By Parity - Problem [#905](https://leetcode.com/problems/sort-array-by-parity/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution21.java)
+
+## Week 4
+ 1. Random Point in Non-overlapping Rectangles - Problem [#905](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution22.java)
