@@ -28,4 +28,5 @@
   7. Sort Array By Parity - Problem [#905](https://leetcode.com/problems/sort-array-by-parity/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution21.java)
 
 ## Week 4
- 1. Random Point in Non-overlapping Rectangles - Problem [#905](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution22.java)
+  1. Random Point in Non-overlapping Rectangles - Problem [#905](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution22.java)
+  2. Stream of Characters - Problem [#1032](https://leetcode.com/problems/stream-of-characters/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution23.java)
