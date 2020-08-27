@@ -33,3 +33,4 @@
   3. Sum of Left Leaves - Problem [#404](https://leetcode.com/problems/sum-of-left-leaves/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution24.java)
   4. Minimum Cost For Tickets- Problem [#983](https://leetcode.com/problems/minimum-cost-for-tickets/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution25.java)
   5. Fizz Buzz - Problem [#412](https://leetcode.com/problems/fizz-buzz/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution26.java)
+  6. Find Right Interval - Problem [#436](https://leetcode.com/problems/find-right-interval/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution27.java)
