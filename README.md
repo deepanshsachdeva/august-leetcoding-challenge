@@ -32,3 +32,4 @@
   2. Stream of Characters - Problem [#1032](https://leetcode.com/problems/stream-of-characters/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution23.java)
   3. Sum of Left Leaves - Problem [#404](https://leetcode.com/problems/sum-of-left-leaves/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution24.java)
   4. Minimum Cost For Tickets- Problem [#983](https://leetcode.com/problems/minimum-cost-for-tickets/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution25.java)
+  5. Fizz Buzz - Problem [#412](https://leetcode.com/problems/fizz-buzz/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution26.java)
