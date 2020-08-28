@@ -34,3 +34,4 @@
   4. Minimum Cost For Tickets- Problem [#983](https://leetcode.com/problems/minimum-cost-for-tickets/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution25.java)
   5. Fizz Buzz - Problem [#412](https://leetcode.com/problems/fizz-buzz/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution26.java)
   6. Find Right Interval - Problem [#436](https://leetcode.com/problems/find-right-interval/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution27.java)
+  7. Implement Rand10() Using Rand7() - Problem [#470](https://leetcode.com/problems/implement-rand10-using-rand7/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution28.java)
