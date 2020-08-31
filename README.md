@@ -38,3 +38,4 @@
 
 ## Week 5
   1. Pancake Sorting - Problem [#969](https://leetcode.com/problems/pancake-sorting/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution29.java)
+  2. Largest Component Size by Common Factor - Problem [#952](https://leetcode.com/problems/largest-component-size-by-common-factor/) :arrow_right: [Solution](https://github.com/deepanshsachdeva/august-leetcoding-challenge/blob/master/Solution30.java)
